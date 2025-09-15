@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-debug",
+        "redhat.java",
+        "ms-vscode.vscode-json",
+        "formulahendry.code-runner"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "ASH2225025M/Monopoly abtahe/src/main/java",
+        "ASH2225025M/Snake & Ladder"
+    ],
+    "java.project.outputPath": "ASH2225025M/Monopoly abtahe/target/classes",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/usr/lib/jvm/java-17-openjdk-amd64"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "ASH2225025M/Monopoly abtahe/target/classes/**/*.jar"
+    ],
+    "files.exclude": {
+        "**/target": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.saveActions.organizeImports": true,
+    "java.format.settings.url": "",
+    "java.format.settings.profile": "GoogleStyle",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}

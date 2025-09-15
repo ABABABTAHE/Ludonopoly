@@ -1,0 +1,44 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Monopoly Game",
+            "request": "launch",
+            "mainClass": "monopoly.MonopolyInitGUI",
+            "projectName": "Monopoly",
+            "cwd": "${workspaceFolder}/ASH2225025M/Monopoly abtahe",
+            "classpath": [
+                "${workspaceFolder}/ASH2225025M/Monopoly abtahe/target/classes",
+                "${workspaceFolder}/ASH2225025M/Monopoly abtahe/src/main/java"
+            ],
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Snake & Ladder Game",
+            "request": "launch",
+            "mainClass": "SnakeLadderGame",
+            "cwd": "${workspaceFolder}/ASH2225025M/Snake & Ladder",
+            "classpath": [
+                "${workspaceFolder}/ASH2225025M/Snake & Ladder"
+            ],
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug Monopoly Game",
+            "request": "launch",
+            "mainClass": "monopoly.MonopolyInitGUI",
+            "projectName": "Monopoly",
+            "cwd": "${workspaceFolder}/ASH2225025M/Monopoly abtahe",
+            "classpath": [
+                "${workspaceFolder}/ASH2225025M/Monopoly abtahe/target/classes",
+                "${workspaceFolder}/ASH2225025M/Monopoly abtahe/src/main/java"
+            ],
+            "args": "",
+            "console": "integratedTerminal",
+            "stopOnEntry": false
+        }
+    ]
+}
